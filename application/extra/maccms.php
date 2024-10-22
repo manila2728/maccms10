@@ -587,7 +587,7 @@ plotdetail/<id>   => plot/detail',
   'sms' => 
   array (
     'type' => '',
-    'sign' => '我的网站',
+    'sign' => '我的网站T',
     'tpl_code_reg' => 'SMS_144850895',
     'tpl_code_bind' => 'SMS_144940283',
     'tpl_code_findpass' => 'SMS_144851023',
